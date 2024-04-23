@@ -1,0 +1,2 @@
+# Deneme
+Eğitim amaçlı oluşturuldu
